@@ -18,3 +18,4 @@ yarn-error.log
 /public/js/app.js
 /public/css/app.css.map
 /public/js/app.js.map
+/app/Console/Commands/TestCommand.php
